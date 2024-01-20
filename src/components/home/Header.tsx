@@ -13,7 +13,7 @@ const Header = (props: Props) => {
 
           <div className="flex gap-2">
             <button className="text-lg font-medium text-white bg-primary rounded-lg px-6 py-2">Get started</button>
-            <button className="text-lg font-medium bg-slate-200 rounded-lg px-6 py-2">FAQ</button>
+            <button className="text-lg font-medium bg-slate-200 rounded-lg px-6 py-2 text-gray-950">FAQ</button>
           </div>
         </div>
       </div>

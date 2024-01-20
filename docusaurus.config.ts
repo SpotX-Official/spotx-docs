@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://www.example.com',
+  url: 'https://SpotX-Official.github.io/spotx-docs',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -16,7 +16,9 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'SpotX-Official', // Usually your GitHub org/user name.
-  projectName: 'SpotX-Official', // Usually your repo name.
+  projectName: 'spotx-docs', // Usually your repo name.
+  deploymentBranch:"gh-host",
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
