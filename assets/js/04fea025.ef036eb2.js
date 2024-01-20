@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspotx_docs=self.webpackChunkspotx_docs||[]).push([[7328],{4819:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/spotx-docs/blog/tags/docusaurus","allTagsPath":"/spotx-docs/blog/tags","count":4,"unlisted":false}')}}]);
