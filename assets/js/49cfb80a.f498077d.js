@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspotx_docs=self.webpackChunkspotx_docs||[]).push([[402],{8110:e=>{e.exports=JSON.parse('{"title":"Guide","slug":"/category/guide","permalink":"/spotx-docs/docs/category/guide","navigation":{"previous":{"title":"Quick Start","permalink":"/spotx-docs/docs/quickstart"},"next":{"title":"Hello","permalink":"/spotx-docs/docs/guide/hello"}}}')}}]);
