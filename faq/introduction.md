@@ -1,13 +1,12 @@
 ---
 sidebar_position: 1
-sidebar_label: Quick Start
+sidebar_label: Introduction
 
-id: quickstart
+id: introduction
 # slug: /quickstart  # not neccessary
-title: Quick Start
+title: Introduction
 tags:
-  - Getting Started
-  - Quick Start
+  - FAQ
 ---
 
 # Welcome to FAQ

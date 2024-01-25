@@ -39,10 +39,14 @@ const config: Config = {
           // id: 'product', // omitted => default instance
           path: "guide",
           routeBasePath: "guide",
+          editUrl: "https://github.com/SpotX-Official/spotx-docs/edit/main/",
           sidebarPath: "./sidebars.ts",
           // ... other options
         },
-      },
+        theme: {
+          customCss: "./src/css/custom.css",
+        },
+      } satisfies Preset.Options,
     ],
   ],
   plugins: [
@@ -79,7 +83,7 @@ const config: Config = {
           sidebarId: "faqSidebar",
           position: "left",
           label: "FAQ",
-          docsPluginId:"faq"
+          docsPluginId: "faq",
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {

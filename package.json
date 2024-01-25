@@ -13,7 +13,7 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "tailwind": "npx tailwindcss -o ./src/css/global.css --watch"
+    "tailwind": "npx tailwindcss -o ./src/css/global.css --watch --minify"
   },
   "dependencies": {
     "@docusaurus/core": "3.1.0",

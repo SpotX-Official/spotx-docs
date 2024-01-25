@@ -1,10 +1,10 @@
 {
-  "position": 2.5,
-  "label": "Guide",
+  "position": 2,
+  "label": "Installation Guide",
   "collapsible": true,
   "collapsed": false,
   "link": {
     "type": "generated-index",
-    "title": "Guide"
+    "title": "Installation Guide"
   }
 }
