@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkspotx_docs=self.webpackChunkspotx_docs||[]).push([[121],{8070:t=>{t.exports=JSON.parse('[{"label":"Getting Started","permalink":"/spotx-docs/docs/tags/getting-started","count":2},{"label":"Quick Start","permalink":"/spotx-docs/docs/tags/quick-start","count":1}]')}}]);

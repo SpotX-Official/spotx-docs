@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspotx_docs=self.webpackChunkspotx_docs||[]).push([[4214],{1709:s=>{s.exports=JSON.parse('[{"label":"FAQ","permalink":"/spotx-docs/faq/tags/faq","count":1}]')}}]);

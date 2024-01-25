@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkspotx_docs=self.webpackChunkspotx_docs||[]).push([[731],{1897:s=>{s.exports=JSON.parse('{"permalink":"/spotx-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
