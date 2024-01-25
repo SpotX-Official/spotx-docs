@@ -26,12 +26,12 @@ const Header = (props: Props) => {
           </p>
 
           <div className="flex justify-center lg:justify-start gap-3">
-            <Button as="a" props={{ href: "docs/quickstart" }}>
+            <Button as="a" props={{ href: "guide/quickstart" }}>
               Quick start
             </Button>
             <Button
               as="a"
-              props={{ href: "docs/category/guide" }}
+              props={{ href: "guide/installation-guide/hello" }}
               color="secondary"
             >
               Guide

@@ -101,11 +101,11 @@ const config: Config = {
           items: [
             {
               label: "Quick Start",
-              to: "/docs/quickstart",
+              to: "/guide/quickstart",
             },
             {
               label: "Guide",
-              to: "/guide/guide/hello",
+              to: "/guide/installation-guide/hello",
             },
           ],
         },
@@ -135,7 +135,7 @@ const config: Config = {
             // },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/SpotX-Official",
             },
           ],
         },
