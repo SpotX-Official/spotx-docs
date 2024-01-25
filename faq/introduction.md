@@ -9,4 +9,6 @@ tags:
   - FAQ
 ---
 
+<!-- follow above format to add metadata to each file/page, such as tags, title... -->
+
 # Welcome to FAQ

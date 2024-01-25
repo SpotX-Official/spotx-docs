@@ -1,0 +1,11 @@
+{
+    "position": 2,
+    "label": "Windows",
+    "collapsible": true,
+    "collapsed": false,
+    "link": {
+      "type": "generated-index",
+      "title": "Installation Guide for Windows"
+    }
+  }
+  
