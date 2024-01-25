@@ -34,6 +34,8 @@
   box-shadow: none;
   background-color: rgba(255, 255, 255, 0.25);
   backdrop-filter: blur(16px) saturate(180%);
+  position: relative;
+  z-index: 50;
 }
 
 [data-theme="dark"] .navbar {
