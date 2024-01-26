@@ -26,8 +26,8 @@ const Header = (props: Props) => {
           </p>
 
           <div className="flex justify-center gap-3">
-            <Button as="a" props={{ href: "guide/quickstart" }}>
-              Quick start
+            <Button as="a" props={{ href: "guide/getting-started" }}>
+              Get started
             </Button>
             <Button
               as="a"

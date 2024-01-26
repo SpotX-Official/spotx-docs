@@ -87,9 +87,18 @@ const config: Config = {
           docsPluginId: "faq",
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
+        // {
+        //   href: "https://github.com/SpotX-Official",
+        //   label: "GitHub",
+        //   position: "right",
+        // },
         {
+          html: `
+          <div style="display:flex;align-items:center">
+            <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/SpotX-Official">
+          </div>
+          `,
           href: "https://github.com/SpotX-Official",
-          label: "GitHub",
           position: "right",
         },
       ],
@@ -98,15 +107,36 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Guide",
           items: [
             {
-              label: "Quick Start",
-              to: "/guide/quickstart",
+              label: "Get started",
+              to: "/guide/getting-started",
             },
             {
-              label: "Installation",
-              to: "/guide/installation-guide/hello",
+              label: "Installation (Windows)",
+              to: "/guide/advanced-guides/installation-win",
+            },
+            {
+              label: "Installation (Linux & MacOS)",
+              to: "/guide/advanced-guides/installation-sh",
+            },
+          ],
+        },
+        {
+          title: "Github",
+          items: [
+            {
+              label: "Windows",
+              href: "https://github.com/SpotX-Official/SpotX",
+            },
+            {
+              label: "Linux & MacOS",
+              href: "https://github.com/SpotX-Official/SpotX-Bash",
+            },
+            {
+              label: "Documentation",
+              href: "https://github.com/SpotX-Official/SpotX",
             },
           ],
         },
@@ -114,34 +144,17 @@ const config: Config = {
           title: "Community",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Telegram Channel",
+              href: "https://t.me/spotify_windows_mod",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            // {
-            //   label: 'Blog',
-            //   to: '/blog',
-            // },
-            {
-              label: "GitHub",
-              href: "https://github.com/SpotX-Official",
+              label: "Telegram Community",
+              href: "https://t.me/SpotxCommunity",
             },
           ],
         },
       ],
-      copyright: `Made with &hearts; by SpotX team, ${new Date().getFullYear()}`,
+      copyright: `Copyright ©${new Date().getFullYear()} SpotX. Made with &hearts; by <a href="https://github.com/SpotX-Official/spotx-docs">SpotX Team</a>.`,
     },
     prism: {
       theme: prismThemes.github,

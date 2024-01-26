@@ -25,12 +25,12 @@ Before you edit/correct this docs, read this
 ```mdx
 ---
 sidebar_position: 2 # optional
-sidebar_label: Qucik Start # optional
+sidebar_label: Getting Started # optional
 
-id: quickstart-quide # recommended 
-title: Quick Start # recommended
+id: getting-started # recommended 
+title: Getting Started # recommended
 description: Create a doc page with rich content. # optional
-slug: /quickstart-page # optional
+slug: /getting-started-page # optional
 ---
 
 <!-- Below head tag block is completely optional, it's not required in normal pages, it is ony added for super important pages -->
@@ -77,7 +77,8 @@ content
         "className": "red",
         "link": {
             "type": "generated-index",
-            "title": "Tutorial overview"
+            "title": "Tutorial overview",
+            "description": "Tutorial guides"
         }
     }
     ```

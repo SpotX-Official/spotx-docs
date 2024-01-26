@@ -2,7 +2,7 @@
     "position": 2,
     "label": "Windows",
     "collapsible": true,
-    "collapsed": true,
+    "collapsed": false,
     "link": {
       "type": "generated-index",
       "title": "Windows FAQ"
