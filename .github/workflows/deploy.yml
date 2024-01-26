@@ -46,5 +46,7 @@ jobs:
 
       - name: List Contributors 
         uses: akhilmhdh/contributors-readme-action@v2.3.6
+        with:
+          use_username: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

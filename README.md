@@ -7,7 +7,6 @@ Before you edit/correct this docs, read this
 - All the files for [Guide](https://spotx-official.github.io/spotx-docs/guide/quickstart) is inside `guide` directory
 - All the files for [FAQ](https://spotx-official.github.io/spotx-docs/faq/introduction) is inside `faq` directory
 - **Don't** edit files in any other directory other than above two, unless you intend to change website structure or styling!
-- This website was initially coded by [shinjith-dev](https://github.com/shinjith-dev), reach out for help/assistance
 
 ## Tech Used
 
@@ -15,9 +14,9 @@ Before you edit/correct this docs, read this
 - [Tailwind CSS](https://tailwindcss.com/) - For additional styling
 - Markdown with [MDX](https://mdxjs.com/)
 
-## To Add a File
+## To Add a Page
 
-- Create `yourfile.md` in desired directory (`guide` or `faq`)
+- Create `<serial-no>_<page-name>.md` in desired directory (`guide` or `faq`), *ex:* `/guide/advanced-guides/06_conclusion.md`
 - You can use [basic markdown syntax](https://www.markdownguide.org/basic-syntax/), refer [this](https://docusaurus.io/docs/markdown-features) for details
 - Sidebar entries are automatically generated with default or preferred label (`sidebar_label` below)
 - Try to follow recommended format for every file for best results:
