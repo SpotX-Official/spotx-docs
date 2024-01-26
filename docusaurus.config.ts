@@ -57,6 +57,7 @@ const config: Config = {
         path: "faq",
         routeBasePath: "faq",
         sidebarPath: "./sidebars.ts",
+        editUrl: "https://github.com/SpotX-Official/spotx-docs/edit/main/",
         // ... other options
       },
     ],
@@ -104,7 +105,7 @@ const config: Config = {
               to: "/guide/quickstart",
             },
             {
-              label: "Guide",
+              label: "Installation",
               to: "/guide/installation-guide/hello",
             },
           ],
