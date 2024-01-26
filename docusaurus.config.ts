@@ -66,6 +66,9 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: "img/text_logo.png",
+    colorMode: {
+      defaultMode: "dark",
+    },
     navbar: {
       title: "SpotX",
       logo: {
