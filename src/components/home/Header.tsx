@@ -1,5 +1,5 @@
 import React from "react";
-import spotxLogo from "../../../assets/logo/logo.png";
+// import spotxLogo from "../../../assets/logo/logo.png";
 import Button from "../atoms/Button";
 
 type Props = {};
@@ -31,7 +31,7 @@ const Header = (props: Props) => {
             </Button>
             <Button
               as="a"
-              props={{ href: "guide/installation-guide/hello" }}
+              props={{ href: "guide/category/advanced-guide-1" }}
               color="secondary"
             >
               Guide
