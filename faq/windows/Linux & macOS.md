@@ -14,9 +14,9 @@
 
 * * * * *
 
-# General Questions
+## General Questions
 
-## How to use this?
+### How to use this?
 
 In short -- install Spotify desktop client then run the SpotX-Bash command mentioned in the README.
 
