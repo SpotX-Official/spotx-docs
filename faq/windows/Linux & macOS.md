@@ -126,7 +126,7 @@ RPM installations default to: `/usr/share/spotify-client/`
 _For macOS_ -- use the full path where `Spotify.app` is located. Default path for all macOS apps is in the /Applications/ directory.
 For example, if Spotify.app is located at `/Applications/MyStuff/Spotify.app` then you would add `-P /Applications/MyStuff/` to the `SpotX-Bash` command and the installation should be found. 
 
-## Why doesn't SpotX-Bash have "x" feature?
+### Why doesn't SpotX-Bash have "x" feature?
 
 The goal of `SpotX-Bash` is blocking ads and enabling official experimental features. 
 
