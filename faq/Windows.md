@@ -1,19 +1,4 @@
 
-
-* * * * *
-
-
-
-* * * * *
-
-
-
-* * * * *
-
-
-
-* * * * *
-
 ### Why block Spotify automatic updates?
 
 The official Spotify is automatically updated about once or twice a month, if this happens then SpotX will be lost to you as the official Spotify installer will simply overwrite it, and you will need to reinstall it.
