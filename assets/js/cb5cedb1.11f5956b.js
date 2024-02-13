@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkspotx_docs=self.webpackChunkspotx_docs||[]).push([[5705],{2216:s=>{s.exports=JSON.parse('{"label":"FAQ","permalink":"/spotx-docs/faq/tags/faq","allTagsPath":"/spotx-docs/faq/tags","count":1,"items":[{"id":"introduction","title":"Introduction","description":"","permalink":"/spotx-docs/faq/introduction"}],"unlisted":false}')}}]);
